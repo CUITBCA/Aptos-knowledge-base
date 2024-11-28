@@ -1,4 +1,4 @@
-![ ](file:///E:/AAA%E5%A4%A7%E5%AD%A6/%E5%8D%8F%E4%BC%9A/logo.png)
+![logo.png](https://s2.loli.net/2024/11/28/qYmozW91tisH6aU.png)
 
 # 欢迎来到APTOS
 
@@ -43,7 +43,7 @@ Aptos具有以下优势和功能:
 
 ## Aptos 架构
 
-![](file:///E:/AAA%E5%A4%A7%E5%AD%A6/%E5%8D%8F%E4%BC%9A/%E6%9E%B6%E6%9E%84.png)
+![validators.png](https://s2.loli.net/2024/11/28/TGe5PwpvqMQWlmh.png)
 
 > 来源：Aptos白皮书
 
@@ -59,4 +59,4 @@ Medium: <https://medium.com/aptoslabs>
 Github:<https://github.com/aptos-labs/aptoscore>
 白皮书:<https://aptos.dev/aptos white paper/aptos-white-paper-index/>
 
-![](file:///E:/AAA%E5%A4%A7%E5%AD%A6/%E5%8D%8F%E4%BC%9A/%E9%93%BE%E6%8E%A5.png)
+![e.png](https://s2.loli.net/2024/11/28/Txo2ZS6MF9RVbhY.png)
