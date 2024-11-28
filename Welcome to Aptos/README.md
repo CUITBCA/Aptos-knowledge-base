@@ -52,11 +52,11 @@ Aptos具有以下优势和功能:
 更多资源
 --------------
 
-官网：<https://aptosfoundation.org/>
-Twitter:<https://twitter.com/aptoslabs>
-Discord:<https://discord.com/invite/zTDYBEud7U>
-Medium: <https://medium.com/aptoslabs>
-Github:<https://github.com/aptos-labs/aptoscore>
-白皮书:<https://aptos.dev/aptos white paper/aptos-white-paper-index/>
+官网：<https://aptosfoundation.org/><br>
+Twitter:<https://twitter.com/aptoslabs><br>
+Discord:<https://discord.com/invite/zTDYBEud7U><br>
+Medium: <https://medium.com/aptoslabs><br>
+Github:<https://github.com/aptos-labs/aptoscore><br>
+
 
 ![e.png](https://s2.loli.net/2024/11/28/Txo2ZS6MF9RVbhY.png)
