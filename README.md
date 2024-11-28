@@ -23,7 +23,7 @@ dedicated to drivingindustrydevelopment and fostering intercollegiateexchange.�
 ——CUITBCA
 <br>
 我们是一群Crypto狂热信徒❤️‍🔥<br>
-积极融入Web🌴3<br>
+积极融入Web3🌴<br>
 致力于推动行业发展,促进跨校交流。🤘 <br>
 <br>
 ——成都信息工程大学学生区块链协会
