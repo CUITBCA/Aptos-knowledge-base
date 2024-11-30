@@ -28,8 +28,8 @@ Move 验证器支持形式化验证，确保程序功能的正确性。
 
 ## Move On Aptos 相关共学资料
 
-- [残酷共学]:(https://github.com/ALCOVE-LAB/intensive-colearning-aptos)<br>
-
+- 残酷共学
+  https://github.com/ALCOVE-LAB/intensive-colearning-aptos <br>
   仓库下的Readme有关于Move语言从入门到高阶的资料和项目实践，同时仓库中还有其他学员在学习过程中输出的学习笔记
 
 - Move On Aptos 春季共学营
