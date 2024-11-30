@@ -5,19 +5,19 @@ Aptos主网于2022年10月17日正式上线，到今天已历时两年多，其�
 
 Aptos 在 2022 年宣布了多轮融资，A 轮估值 2.75B 美元，获得 A16z、Binance Labs、Coinbase Ventures 等头部基金支持。2024 年 9 月 19 日，MEXC Ventures、Foresight Ventures、Mirana Ventures 联合发起基金，支持 Aptos 生态项目。
 
-![image-20241201010203960](https://raw.githubusercontent.com/404ll/My-images/main//imgAptos2.png)
+![](https://github.com/404ll/My-images/blob/mian/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-11-30%20210608.png)
 
 ## 生态系统一览
 
 截至到2024年11月30日，Aptos的总用户量达到 35,616,963，总价值锁仓 (TVL)为$1.197 billion ，稳定币市值为$311.18 million ，Aptos 的 TVL 和稳定币市值保持了比较健康的增长趋势。
 
-据[Aptos 官网]:(https://aptosfoundation.org/ecosystem/projects)显示，目前Aptos生态共有 203 个项目，其中DeFi项目有53个，GameFi有27个，NFT项目17个，SocialFi项目20个，支持27个 Wallets 项目。
+据[Aptos 官网](https://aptosfoundation.org/ecosystem/projects)显示，目前Aptos生态共有 203 个项目，其中DeFi项目有53个，GameFi有27个，NFT项目17个，SocialFi项目20个，支持27个 Wallets 项目。
 
-![image-20241201011236640](https://raw.githubusercontent.com/404ll/My-images/main//imgAptos2.png)
+![](https://github.com/404ll/My-images/blob/mian/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-12-01%20011234.png)
 
 从Dune上的用户数据来看，Aptos 的日活跃用户在 11 月初达到峰值，达到1,020,955
 
-![image-20241201011609928](https://raw.githubusercontent.com/404ll/My-images/main//imgAptos3.png)
+![](https://github.com/404ll/My-images/blob/mian/img/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-12-01%20011546.png)
 
 APT 初始发行量为 100 亿，有 51.02% 的代币分配给了社区，初始代币集中在基金会手中，每月解锁1131万枚
 
