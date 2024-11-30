@@ -26,3 +26,16 @@ Move 验证器支持形式化验证，确保程序功能的正确性。
 - 模块可升级性：支持对区块链本身和链上配置（如验证节点、质押资产等）的动态调整。
 - 资源控制：实现交易并行处理，数据修改成本低，支持大规模数据集和共享账户。
 
+## Move On Aptos 相关共学资料
+
+- [残酷共学]:(https://github.com/ALCOVE-LAB/intensive-colearning-aptos)<br>
+
+  仓库下的Readme有关于Move语言从入门到高阶的资料和项目实践，同时仓库中还有其他学员在学习过程中输出的学习笔记
+
+- Move On Aptos 春季共学营
+
+  - [Notion资料]:()(https://alcove-pro.notion.site/Move-on-Aptos-alcove-bc0e60f57caa4f2195e06f89bfaedf8e?pvs=4) 这个资料包括了新手入门的了解和各种文档，以及课程的代码
+  - [Google 云盘共学视频]:(https://drive.google.com/drive/folders/1-EmZXvuPuVH60XmbmFxUg1jDm6-uDDG2) 视频包括了Move语法的学习和实战，节奏很慢，适合学习
+
+
+
