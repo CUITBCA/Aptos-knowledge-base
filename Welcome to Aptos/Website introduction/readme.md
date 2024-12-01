@@ -2,14 +2,14 @@
 
 ## 官网地址：
 https://aptosfoundation.org/
-自行开始探索
+自行开始探索🔎
 > 点击“get start”，自行探索你感兴趣的领域！
 
 ![1280X1280](images/1280X1280.PNG)
 
 点击对应tag可以直接跳转至对应区域![1280X1280 (1)](images/1280X1280 (1).PNG)
 
-### 菜单栏 - discover
+🔭### 菜单栏 - discover
 
 
 #### Use Cases
@@ -55,7 +55,7 @@ https://aptosfoundation.org/whitepaper
 
 
 
-### 菜单栏 - Build
+🛠️### 菜单栏 - Build
 
 ![ca278529-7fd4-439c-b693-5a5f54ae21f9](images/ca278529-7fd4-439c-b693-5a5f54ae21f9.png)
 
@@ -85,7 +85,7 @@ https://aptos.dev/en/network/nodes
 此处还有Aptos的术语表 简洁介绍了大部分术语的概念（范围参考下图右方索引）
 ![6b3bf23f-dbd9-4cfb-b304-7380f9bf3535](images/6b3bf23f-dbd9-4cfb-b304-7380f9bf3535.png)
 
-### 菜单栏 - connect
+🔗### 菜单栏 - connect
 
 ![3ef8eebc-9e63-41e7-aae4-2aa6ff2e026c](images/3ef8eebc-9e63-41e7-aae4-2aa6ff2e026c.png)
 
